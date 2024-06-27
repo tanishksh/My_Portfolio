@@ -1,0 +1,36 @@
+[
+  {
+    "role": "Freelance Designer ",
+    "organisation": "Medical Health Care app Prototype",
+    "startDate": "July, 2023",
+    "endDate": ".",
+    "experiences": [
+      "Designed high-fidelity prototype for the Medical Health Care System mobile application, focusing on enhancing user experience and expanding functionalities. ",
+      "The focus will be on refining the user interface (UI) for seamless navigation and optimal user interaction"
+    ],
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "role": "Freelance Developer",
+    "organisation": "Apex Packaging Pvt. Ltd.",
+    "startDate": "December, 2022",
+    "endDate": ".",
+    "experiences": [
+      "Customized a website for the business firm which lead to 20% growth in the lead. ",
+      "It aims the main root for marketing and advertising campaign."
+    ],
+    "imageSrc": "history/apex.png"
+  },
+  {
+    "role": "Freelance Developer",
+    "organisation": "MashroobIndia Pvt. Ltd.",
+    "startDate": "July, 2021",
+    "endDate": ".",
+    "experiences": [
+      "•Dynamic website for business which lead to intensive 15% growth in visitor’s activity.",
+      "It lead to intensive growth in the wholesale orders and brand acquisition."
+    ],
+    "imageSrc": "history/mashroob.jpeg"
+  }
+  
+]

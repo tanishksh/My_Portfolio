@@ -1,0 +1,42 @@
+[
+  {
+    "title": "NoteKeeper – Private Note Taking Simplified",
+    "imageSrc": "projects/project.png",
+    "description": "Developed an online web platform where you can create, edit, upload, delete your notes/information privately and securely without any disturbance",
+    "skills": [
+      "React",
+      "Express",
+      "Node",
+      "Bootstrap",
+      "MongoDB",
+      "MUI"
+    ],
+    "demo": "https://github.com/tanishksh",
+    "source": "https://github.com/tanishksh"
+  },
+  {
+    "title": "Daily News – API based react WebApp",
+    "imageSrc": "projects/project.png",
+    "description": "Developed an elastic web application using News.org Platform APIs which provides News with different categories in JSon format and generate the desired output by making certain variables in key and using them via props and states. ",
+    "skills": [
+      "React",
+      "Express",
+      "Node",
+      "API's","Bootstrap"
+    ],
+    "demo":  "https://github.com/tanishksh/Daily_News",
+    "source": "https://github.com/tanishksh/Daily_News"
+  },
+  {
+    "title": "WoolWeb – OR Scanner & Generator",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Flutter",
+      "Dart",
+      "Node JS","RESTful API","MongoDB","Figma"
+    ],
+    "demo": "https://github.com/tanishksh/woolweb-backend",
+    "source": "https://github.com/tanishksh/woolweb-backend"
+  }
+]
